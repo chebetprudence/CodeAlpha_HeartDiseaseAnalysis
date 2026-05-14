@@ -11,7 +11,7 @@ It involves an in-depth Exploratory Data Analysis (EDA) and Data Visualization o
 
 ## 📂 Repository Structure
 ```
-CodeAlpha_DataAnalytics/
+CodeAlpha_HeartDiseaseAnalysis/
 │
 ├── Task2_EDA/
 │   ├── task2_eda.ipynb        # Exploratory Data Analysis notebook
@@ -96,7 +96,7 @@ CodeAlpha_DataAnalytics/
 ## 🚀 How to Run
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/CodeAlpha_DataAnalytics.git
+git clone https://github.com/chebetprudence/CodeAlpha_HeartDiseaseAnalysis.git
 ```
 2. Install required libraries:
 ```bash
